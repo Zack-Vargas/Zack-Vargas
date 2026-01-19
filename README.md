@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I’m Zack 👋
 
-<!--
-**Zack-Vargas/Zack-Vargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web systems with a bias toward clarity, longevity, and sane defaults.
 
-Here are some ideas to get you started:
+Most of my work lives in private repos.  
+What’s public here is either foundational, experimental, or deliberately unfinished.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+- Modern CMS architectures
+- React-based systems with real-world constraints
+- Practical AI integrations (less hype, more wiring)
+
+### How I think
+- Simplicity scales better than cleverness
+- Good abstractions age well
+- Tools should disappear once they’re working
+
+### Selected work
+- Astro, Next, Vercel
+- Internal tooling and experiments
+- Forks used as research, not trophies
+
+---
+
+Melbourne, FL  
+[Website](https://numinark.com)
